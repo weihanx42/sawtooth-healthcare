@@ -2,7 +2,7 @@
 
 # About
 
-This is blockchain project based on Hyperledger Sawtooth. This project focuses on interaction between Insurer, 
+This is a fork of hyperledger-labs' blockchain project based on Hyperledger Sawtooth. This project focuses on interaction between Insurer, 
 Insured Person (Patient), and Medical Facility. It covers data gathering flow and manages data access based on 
 client’s role.
 
